@@ -14,5 +14,5 @@ body {
 }
 
 .github-link:hover {
-    border: 1px solid red;
+    background-size: 120px;
 }
