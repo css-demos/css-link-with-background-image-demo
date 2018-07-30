@@ -1,3 +1,18 @@
-img:hover {
-    border: 1px dotted red;
+body {
+    text-align:center;
+    padding: 100px;
+    font-size: 40px;
+}
+
+.github-link {
+    width: 100px;
+    height: 40px;
+    display: inline-block;
+    background-image: url("images/github.jpg");
+    background-repeat: no-repeat;
+    background-size: 100px;
+}
+
+.github-link:hover {
+    border: 1px solid red;
 }
