@@ -1,7 +1,7 @@
-Css Hello World Demo
-====================
+Css Link with Image Demo
+========================
 
-Use css in html pages.
+Create a link using an image.
 
 Open `index.html` in your browser.
 
